@@ -1,0 +1,11 @@
+//
+// Created by Jesson on 3/4/21.
+//
+
+#ifndef JNI_HELPER_ASSETMANAGERUTILS_H
+#define JNI_HELPER_ASSETMANAGERUTILS_H
+
+
+
+
+#endif //JNI_HELPER_ASSETMANAGERUTILS_H
